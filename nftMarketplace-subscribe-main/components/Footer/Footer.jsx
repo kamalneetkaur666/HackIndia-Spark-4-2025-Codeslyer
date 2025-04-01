@@ -67,7 +67,7 @@ const Footer = () => {
           <div className={Style.subscribe_box_info}>
             <p>
               Discover, collect, and sell extraordinary NFTs OpenSea is the
-              world first and largest NFT marketplace
+              world first and largest NFT marketplace made by codeslyer
             </p>
           </div>
         </div>
